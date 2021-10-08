@@ -1,0 +1,20 @@
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\bin\Debug\практика.exe.config
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\bin\Debug\практика.exe
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\bin\Debug\практика.pdb
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.csproj.AssemblyReference.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.Form1.resources
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.Properties.Resources.resources
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.csproj.GenerateResource.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.csproj.CoreCompileInputs.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.exe
+C:\Users\ilyag\OneDrive\Рабочий стол\практика\obj\Debug\практика.pdb
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\bin\Debug\практика.exe.config
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\bin\Debug\практика.exe
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\bin\Debug\практика.pdb
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.csproj.AssemblyReference.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.Properties.Resources.resources
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.csproj.GenerateResource.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.csproj.CoreCompileInputs.cache
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.exe
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.pdb
+C:\Users\ilyag\OneDrive\Рабочий стол\Новая папка\obj\Debug\практика.Конвертер.resources
